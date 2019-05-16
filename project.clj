@@ -2,7 +2,7 @@
 
 (def VERSION "1.2.16")
 
-(defproject yada/core VERSION
+(defproject employeerepublic/yada-core VERSION
   :description "A powerful Clojure web library, full HTTP, full async"
   :url "https://github.com/juxt/yada"
   :license {:name "The MIT License"
